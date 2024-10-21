@@ -1,0 +1,10 @@
+/Users/eugeneway/work/mandelbrot/mandelbrot_rust/target/release/deps/libavif_serialize-67ae2c4a795083cd.rmeta: /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.2/src/lib.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.2/src/boxes.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.2/src/constants.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.2/src/writer.rs
+
+/Users/eugeneway/work/mandelbrot/mandelbrot_rust/target/release/deps/libavif_serialize-67ae2c4a795083cd.rlib: /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.2/src/lib.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.2/src/boxes.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.2/src/constants.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.2/src/writer.rs
+
+/Users/eugeneway/work/mandelbrot/mandelbrot_rust/target/release/deps/avif_serialize-67ae2c4a795083cd.d: /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.2/src/lib.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.2/src/boxes.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.2/src/constants.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.2/src/writer.rs
+
+/Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.2/src/lib.rs:
+/Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.2/src/boxes.rs:
+/Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.2/src/constants.rs:
+/Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.2/src/writer.rs:

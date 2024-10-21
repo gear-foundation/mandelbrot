@@ -1,0 +1,11 @@
+/Users/eugeneway/work/mandelbrot/mandelbrot_rust/target/release/deps/libcrc32fast-ff26b26fab1ef87a.rmeta: /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/lib.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/baseline.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/combine.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/specialized/mod.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/table.rs
+
+/Users/eugeneway/work/mandelbrot/mandelbrot_rust/target/release/deps/libcrc32fast-ff26b26fab1ef87a.rlib: /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/lib.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/baseline.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/combine.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/specialized/mod.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/table.rs
+
+/Users/eugeneway/work/mandelbrot/mandelbrot_rust/target/release/deps/crc32fast-ff26b26fab1ef87a.d: /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/lib.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/baseline.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/combine.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/specialized/mod.rs /Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/table.rs
+
+/Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/lib.rs:
+/Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/baseline.rs:
+/Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/combine.rs:
+/Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/specialized/mod.rs:
+/Users/eugeneway/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/table.rs:
