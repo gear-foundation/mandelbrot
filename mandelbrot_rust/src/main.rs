@@ -30,7 +30,7 @@ fn generate_mandelbrot(width: u32, height: u32, max_iter: u32, zoom: f64, center
 
             let iter = mandelbrot(c_re, c_im, max_iter);
             if iter == max_iter {
-                points_found += 1; // Если точка принадлежит множеству, увеличиваем счетчик
+                points_found += 1;
             }
 
             let pixel = img.get_pixel_mut(x, y);
